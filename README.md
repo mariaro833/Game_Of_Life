@@ -18,4 +18,4 @@ Implementation for the Game of Life, the cellular automation devised by the Brit
 
 # Description
 We discussed and agreed on the structure of the code and the principles of the algorithm.
-Next, we implemented two different codes implementation and compared their performance.
+Next, we created two different codes implementation and compared their performance.
